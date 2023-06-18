@@ -1,0 +1,406 @@
+
+
+A259225285B
+PC -00
+Nacional
+JOSEFINA DA CONCEICAO FREITAS DOS SANTOS
+Resumo da fatura em R$
+RUA  PRF LEVINO DOS FRANZERES 100
+SURUI
+Total da fatura anterior4.447,22
+00202865
+25922-528  MAGE - RJ
+P
+Pagamentos efetuados- 4.447,22
+!#7?d"
+S
+Saldo financiado0,00
++
+Postagem: 06/04/2023
+E
+Encargos (financiamento + moratório)5,00
+Vencimento: 15/04/2023
++
+L
+Lançamentos atuais4.374,90
+Emissão: 05/04/2023
+060423
+Previsão prox. Fechamento: 05/05/2023
+=
+Total desta fatura4.379,90
+Titular
+JOSEFINA DA CONCEICAO FREITAS DOS SANTOS
+Cartão
+5253.XXXX.XXXX.7719
+Limite total de crédito
+18.590,00
+O total da sua fatura é:Com vencimento em:
+Disponível para saque no Brasil
+520,00
+R$ 4.379,9015/04/2023
+R$ 880,81R$ 551,59
++23x  R$ 551,59
+Total ao optar pelo pagamento mínimo: R$ 4.996,66Total: R$ 13.238,16
+OTotalacimaécompostopelovalordopagamentomínimo+valornãopago
+acrescidodeencargos.
+Banco Itaú S.A.   341-734191.75520 45039.912048 00148.270002 1 000
+recibo do pagador
+Número do Documento
+00152450399/0222241
+Nosso Número175/52450399-1
+Nome do Pagador/CPF/CNPJ
+JOSEFINA DA CONCEICAO FREITAS DOS SANTOS  -  033.290.847-07
+Valor do DocumentoR$ 4.379,90
+Nome do Beneficiário/CPF/CNPJ
+FINANCEIRA ITAÚ CBD S.A - 06.881.898/0001-30
+Vencimento15/04/2023
+Endereço do Beneficiário
+PÇA ALFREDO EGYDIO DE SOUZA ARANHA, 100,
+TWMS 5  A
+, JABAQUARA - SÃO PAULO - SP
+Autenticação Mecânica
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Banco Itaú S.A.341-734191.75520 45039.912048 00148.270002 1 000
+Local de PagamentoData de Vencimento
+Pague sua fatura em qualquer banco, mesmo após a data de vencimento. Dê preferência para o pagamento até a data de vencimento
+para não gerar encargos e/ou rescisão contratual. Em caso de atraso, os encargos serão cobrados na próxima fatura.15/04/2023
+Nome do Beneficiário/ CNPJ/CPF/EndereçoAgência / Código Beneficiário
+FINANCEIRA ITAÚ CBD S.A - 06.881.898/0001-30
+PÇA ALFREDO EGYDIO DE SOUZA ARANHA, 100,
+TWMS 5  A
+, JABAQUARA - SÃO PAULO - SP2040/01482-7
+Data do DocumentoNúmero do DocumentoEspécie DOC.AceiteData do ProcessamentoNosso Número
+15/04/202300152450399/0222241FTN05/04/2023175/52450399-1
+Uso do BancoCarteiraEspécieQuantidadeValor(=) Valor do Documento
+175R$R$ 4.379,90
+Instruções de responsabilidade do beneficiário.(-) Descontos / Abatimentos
+Indique o valor que deseja pagar no campo "Valor Pago". Dê preferência ao pagamento total. Não sendo possível, você terá as seguintes
+opções: (i) pagar quantia a partir do valor constante em  Pagamento Mínimo , financiando o restante pelo crédito rotativo; (ii) optar por
+(+) Juros / Multa
+uma das opções de  Parcelas Fixas , pagando o valor exato da parcela até a data do vencimento. O não pagamento poderá gerar
+inscrição nos órgãos restritivos de crédito.
+(=) Valor Pago
+Nome do Pagador/CPF/CNPJ/Endereço/Cidade/UF/CEP
+JOSEFINA DA CONCEICAO FREITAS DOS SANTOS  -  033.290.847-07
+RUA  PRF LEVINO DOS FRANZERES 100 - SURUI - 25922-528  MAGE - RJ -
+Sacador Avalista:
+<wwNnNwNnNwwnNNwnnWWnnnWWnnnWWnnnWWnnnWWnnnWWnNnwwNNnNwwwNwnNNnWnwNNwwnnWnWnwNnnWnnWwNnnWWnwnNnWwNnwNnnNWwnnWWn>
+Autenticação Mecânica - Ficha de Compensação
+
+Pagamentos efetuadosLançamentos: compras e saques
+DATAVALOR EM R$
+30/11MERCADOLIVRE*WRMAG05/1016,80
+14/03PAGTO FICHA COMPENSACAO- 3.959,00
+VESTUÁRIO .Osasco
+17/03PAGTO FICHA COMPENSACAO- 488,2201/12PG *WILSON FERNAND05/08125,00
+P
+Total dos pagamentos- 4.447,22
+DIVERSOS .MAGE
+10/12MERCADOLIVRE*SPORT04/0628,35
+Lançamentos: compras e saques
+VESTUÁRIO .Osasco
+17/12MERCADOLIVRE*MERCA04/0615,85
+JOSEFINA FREITAS (final 7719)
+SAÚDE .Osasco
+DATAESTABELECIMENTOVALOR EM R$
+17/12MERCADOLIVRE*MERCA04/1013,77
+13/06PAG*SinalDasMaquin10/10134,10
+VESTUÁRIO .Osasco
+VESTUÁRIO .RIO DE JANEIR
+22/12MERCADOLIVRE*FENIX04/1047,58
+17/06PAG*Tapiocadaju   10/10113,00
+DIVERSOS .Osasco
+ALIMENTAÇÃO .MAGE
+02/01MS CARDOSO FARMACI04/0491,25
+12/07Amazon-Marketplace09/1030,53
+SAÚDE .DUQUE DE CAXI
+VESTUÁRIO .SAO PAULO
+10/01PG *PDCA SA   TON 03/0363,60
+20/07ATACADO DOS PISOS 09/12138,92
+TURISMO E ENTRETENIM.SAO PAULO
+MORADIA .TERESOPOLIS
+16/01MERCADOLIVRE*MERCA03/0653,60
+20/07ATACADO DOS PISOS 09/1242,97
+VESTUÁRIO .Osasco
+MORADIA .TERESOPOLIS
+19/01MERCADOLIVRE*RMEMB03/0432,52
+23/08MERCADOLIVRE*VSP  08/1094,30
+VEÍCULOS .Osasco
+VESTUÁRIO .Osasco
+25/01HGEL              03/0373,60
+23/08matias            08/10135,00
+VESTUÁRIO .RIO DE JANEIR
+DIVERSOS .MAGE
+26/01MERCADOLIVRE*COMER03/0428,31
+27/08MAGAZINE LUIZA SA 08/10150,93
+EDUCAÇÃO .Osasco
+VESTUÁRIO .MAGE
+30/01MP*SEFAZSECRETAR  03/0377,50
+27/08MAGAZINE LUIZA SA 08/1025,37
+DIVERSOS .OSASCO
+VESTUÁRIO .MAGE
+31/01MERCADOLIVRE*MERCA03/0532,32
+05/09PAG*JulianaDosSant07/1076,00
+VESTUÁRIO .Osasco
+DIVERSOS .MAGE
+03/02MERCADOLIVRE*FISIA03/0828,75
+17/10MERCADOLIVRE*MERCA06/0623,50
+HOBBY .Osasco
+ALIMENTAÇÃO .Osasco
+03/02MERCADOLIVRE*FISIACOM- 0,21
+18/10PAG*BrunoAmancioNu06/10190,00
+HOBBY .Osasco
+DIVERSOS .MAGE
+04/02MERCADOLIVRE*SACIP02/0317,87
+19/10PAG*Tapiocadaju   06/1075,30
+DIVERSOS .Osasco
+ALIMENTAÇÃO .MAGE
+04/02MERCADOLIVRE*SACIPRIM- 0,02
+04/11EDUZZTECNOLOGIALTD06/1249,70
+DIVERSOS .Osasco
+EDUCAÇÃO .SAO PAULO
+07/02MP*MEGAMAISASSOC  02/0453,85
+07/11PAG*Tapiocadaju   05/1090,00
+DIVERSOS .OSASCO
+ALIMENTAÇÃO .MAGE
+07/02MP*MEGAMAISASSOC- 0,06
+15/11PG *LI BHULMANN   05/0632,92
+DIVERSOS .OSASCO
+DIVERSOS .SAO PAULO
+09/02CENTRO DE IMAGEM M02/0250,00
+19/11PAG*Tapiocadaju   05/1075,30
+SAÚDE .MAGE
+ALIMENTAÇÃO .MAGE
+09/02FRI PRESENTES     02/0233,70
+25/11AMAZON MARKETPLACE05/1035,30
+VESTUÁRIO .MAGE
+VESTUÁRIO .SAO PAULO
+13/02DROG JAIME ALMEIDA02/0452,50
+28/11MERCADOLIVRE*MERCA05/0912,56
+SAÚDE .MAGE
+VESTUÁRIO .Osasco
+Continua...
+3003 3030
+0800 720 3030
+PC - 00 01650 VK016 06/04/2023 VKRPOF11 G4190 0202865
+
+Lançamentos: compras e saquesLançamentos: produtos e serviços
+13/02DROGARIAS PACHECO 02/0267,89
+DATAPRODUTOS/SERVIÇOSVALOR EM R$
+SAÚDE .MAGE
+17/01PARCELAMEN FATURA 03/04397,33
+13/02PAG*CARDIOMAGE    02/02157,89
+Principal (R$ 294,76 ) + Juros (R$ 102,57 )
+SAÚDE .NITEROI
+06/03ANUIDADE DIFERENCI12/1210,60
+13/02DROG JAIME ALMEIDA- 0,06
+Titular    7719
+SAÚDE .MAGE
+23/03SEG COMPRA PROTEGIDA11,41
+13/02DROGARIAS PACHECO- 0,01
+SAÚDE .MAGE
+Lançamentos produtos e serviços419,34
+15/02MS CARDOSO FARMACI02/0438,75
+SAÚDE .DUQUE DE CAXI
+24/02AMAZON BR         02/0851,85
+L
+Total dos lançamentos atuais4.374,90
+VESTUÁRIO .SAO PAULO
+24/02AMAZON BR- 0,21
+Compras parceladas - próximas faturas
+VESTUÁRIO .SAO PAULO
+25/02MP*ENELRJAMPLA    02/0580,32
+DATAESTABELECIMENTOVALOR EM R$
+12/07Amazon-Marketplace10/1030,53
+DIVERSOS .OSASCO
+20/07ATACADO DOS PISOS 10/12138,92
+25/02MP*ENELRJAMPLA- 0,08
+20/07ATACADO DOS PISOS 10/1242,97
+DIVERSOS .OSASCO
+23/08MERCADOLIVRE*VSP  09/1094,30
+27/02MERCADOLIVRE*ELEVE02/0832,52
+23/08matias            09/10135,00
+VESTUÁRIO .Osasco
+27/08MAGAZINE LUIZA SA 09/10150,93
+27/02MERCADOLIVRE*ELEVENCO- 0,21
+27/08MAGAZINE LUIZA SA 09/1025,37
+VESTUÁRIO .Osasco
+05/09PAG*JulianaDosSant08/1076,00
+01/03MP*ERJDETRAN      02/0452,62
+18/10PAG*BrunoAmancioNu07/10190,00
+DIVERSOS .OSASCO
+19/10PAG*Tapiocadaju   07/1075,30
+01/03MP*ERJDETRAN- 0,03
+04/11EDUZZTECNOLOGIALTD07/1249,70
+DIVERSOS .OSASCO
+07/11PAG*Tapiocadaju   06/1090,00
+06/03MS CARDOSO FARMACI01/0370,00
+15/11PG *LI BHULMANN   06/0632,92
+SAÚDE .
+19/11PAG*Tapiocadaju   06/1075,30
+06/03PG *TON TAPIOCA   01/10110,00
+25/11AMAZON MARKETPLACE06/1035,30
+DIVERSOS .
+28/11MERCADOLIVRE*MERCA06/0912,56
+07/03MERCADOLIVRE*BRAJA01/1013,11
+30/11MERCADOLIVRE*WRMAG06/1016,80
+ALIMENTAÇÃO .
+01/12PG *WILSON FERNAND06/08125,00
+07/03MERCADOLIVRE*DENGO01/1011,56
+10/12MERCADOLIVRE*SPORT05/0628,35
+HOBBY .
+17/12MERCADOLIVRE*MERCA05/0615,85
+08/03RECARGAPAY  *VIVO2612,00
+17/12MERCADOLIVRE*MERCA05/1013,77
+DIVERSOS .SAO PAULO
+22/12MERCADOLIVRE*FENIX05/1047,58
+08/03AMAZON MARKETPLACE01/0353,55
+16/01MERCADOLIVRE*MERCA04/0653,60
+VESTUÁRIO .
+17/01PARCELAMEN FATURA 04/04397,33
+08/03PG *TON TAPIOCA   01/1060,00
+19/01MERCADOLIVRE*RMEMB04/0432,52
+DIVERSOS .
+26/01MERCADOLIVRE*COMER04/0428,31
+08/03AMAZON MARKETPLACE- 0,04
+31/01MERCADOLIVRE*MERCA04/0532,32
+VESTUÁRIO .SAO PAULO
+03/02MERCADOLIVRE*FISIA04/0828,75
+09/03Amazon.com.br24,48
+04/02MERCADOLIVRE*SACIP03/0317,87
+VESTUÁRIO .SAO PAULO
+07/02MP*MEGAMAISASSOC  03/0453,85
+10/03AMAZON MARKETPLACE- 160,61
+13/02DROG JAIME ALMEIDA03/0452,50
+VESTUÁRIO .SAO PAULO
+15/02MS CARDOSO FARMACI03/0438,75
+13/03Amazon.com.br39,90
+24/02AMAZON BR         03/0851,85
+VESTUÁRIO .SAO PAULO
+25/02MP*ENELRJAMPLA    03/0580,32
+15/03SHOPEE*1681583127401/0315,14
+27/02MERCADOLIVRE*ELEVE03/0832,52
+01/03MP*ERJDETRAN      03/0452,62
+15/03SHOPEE*1010539354001/0236,43
+06/03MS CARDOSO FARMACI02/0370,00
+DIVERSOS .
+06/03PG *TON TAPIOCA   02/10110,00
+16/03PG *TON TAPIOCA DA01/10250,00
+07/03MERCADOLIVRE*BRAJA02/1013,11
+DIVERSOS .
+07/03MERCADOLIVRE*DENGO02/1011,56
+20/03EBN         *SHEIN01/0657,50
+08/03AMAZON MARKETPLACE02/0353,55
+DIVERSOS .
+08/03PG *TON TAPIOCA   02/1060,00
+21/03AMAZON BR         01/0214,42
+15/03SHOPEE*1681583127402/0315,14
+VESTUÁRIO .
+15/03SHOPEE*1010539354002/0236,43
+22/03RECARGAPAY  *VIVO4020,00
+16/03PG *TON TAPIOCA DA02/10250,00
+DIVERSOS .SAO PAULO
+20/03EBN         *SHEIN02/0657,50
+22/03AMAZON BR         01/0319,86
+21/03AMAZON BR         02/0214,42
+VESTUÁRIO .
+22/03AMAZON BR         02/0319,86
+25/03MERCADOLIVRE*CONST01/0540,75
+25/03MERCADOLIVRE*CONST02/0540,75
+SAÚDE .
+27/03MERCADOLIVRE*MERCA02/0317,75
+27/03MERCADOLIVRE*MERCA01/0317,75
+27/03AMAZON BR         02/0329,49
+TURISMO E ENTRETENIM.
+29/03SOLARI OTICA      02/1084,00
+27/03AMAZON BR         01/0329,49
+01/04AMAZON BR         02/0334,00
+VESTUÁRIO .
+Próxima fatura3.373,12
+29/03CEMAG SERVICOS MEDICOS150,00
+Demais faturas9.330,14
+SAÚDE .MAGE
+Total para próximas faturas12.703,26
+29/03SOLARI OTICA      01/1084,00
+SAÚDE .
+30/03Amazon Music8,90
+Encargos cobrados nesta fatura
+EDUCAÇÃO .SAO PAULO
+Juros do rotativo17,57 %3,71
+01/04AMAZON BR         01/0334,00
+VESTUÁRIO .
+Lançamentos no cartão (final 7719)3.955,56
+Continua...
+
+Encargos cobrados nesta fatura
+Juros de mora1,00 % am0,00
+Multa por atraso2,00 %0,00
+IOF de financiamento(0,38 % + 0,00820 % a.d.)1,29
+E
+Total de encargos em R$5,00
+Fique atento aos encargos para o próximo
+período
+(15/04 a 14/05)
+Juros Máximos do contrato17,00 % am575,45 % aa
+Pagamento mínimo desta fatura
+Valor da fatura atual4.379,90
+Juros máximos do contrato17,00 % am575,45% aa
+Encargos em caso de pgto. mínimo (R$)594,85
+CET do financiamento da fatura17,63 % am620,76 % aa
+% do total
+Valor em R$financiado
+Valor total financiado3.499,09100,00 %
+Valor do IOF21,91
+Valor total a pagar4.115,85
+Parcelas fixas desta fatura
+Valor da fatura atual4.379,90
+Juros do parcelamento12,90 % am337,63% aa
+CET do parcelamento14,13 % am399,30 % aa
+% do total
+Valor em R$financiado
+Valor total financiado*4.506,94100,00%
+Total a financiar (1)4.379,9097,18 %
+Valor do IOF (2)127,043,35%
+Valor total a pagar13.238,16
+(*) O valor total financiado é composto pela soma dos itens 1 e 2.
+Simulação de Compras parc. c/ juros e
+Crediário (próximo período)
+Limite de crédito18.590,00
+Juros da compra parcelada5,99 % am102,95% aa
+CET da compra parcelada6,30 % am110,29 % aa
+% do total
+Valor em R$financiado
+Valor total financiado18.590,00100.00 %
+Valor do IOF553,20
+Valor total a pagar35.516,64
+Demais Taxas de Juros próximo período
+De retirada de recursos país17,00 % am
+De pagamento de contas3,99 % am
+PC - 00 01650 VK016 06/04/2023 VKRPOF11 G4190 0202865
+
+JOSEFINA DA CONCEICAO FREITAS DOS SANTOS
+,
+COM SEGUROSEM SEGURO
+24 x R$ 656,2724 x R$ 551,59
+Total: R$15.750,48     CET: 636,12 %/anoTotal: R$13.238,16     CET: 399,30 %/ano
+18 x R$ 667,5118 x R$ 585,17
+Total: R$12.015,18     CET: 597,55 %/anoTotal: R$10.533,06     CET: 401,97 %/ano
+15 x R$ 688,8515 x R$ 617,37
+Total: R$10.332,75     CET: 580,39 %/anoTotal: R$9.260,55     CET: 402,51 %/ano
+12 x R$ 731,7912 x R$ 670,86
+Total: R$8.781,48     CET: 560,85 %/anoTotal: R$8.050,32     CET: 400,90 %/ano
+9 x R$ 819,869 x R$ 768,99
+Total: R$7.378,74     CET: 543,17 %/anoTotal: R$6.920,91     CET: 397,71 %/ano
+6 x R$ 1.022,146 x R$ 981,43
+Total: R$6.132,84     CET: 532,51 %/anoTotal: R$5.888,58     CET: 398,77 %/ano
+Sua taxa de juros especial de parcelamento é de 12,90 % a.m.
+OParcelamentodaFaturatemincidênciadeencargos(juroseIOF)eincluiovalortotaldafaturanomomentodacontratação,outrosvalores,comonovas
+compraseparcelasavencer,serãocobradasnormalmentenasfaturasseguintes.AcontrataçãoCOMseguroéopcionaleovalordoseguroseráfinanciado
+utilizandoamesmataxadejurosdoparcelamento.Opagamentodaprimeiraparceladeveserrealizadonovalorexatoatéovencimentodafatura.Ovalor
+totaldoparcelamentocomprometeráseulimitedecrédito,queserárecompostoàmedidaqueasparcelasforempagas.Asimulaçãodequalqueropçãoem
+umdenossosoutroscanais,invalidaasopçõesdestafatura.
+Oferta24xCOMSEGURO:ValorTotalFinanciado:R$5.362,32;Totalàfinanciar:R$4.379,90(81,68%dovalortotalfinanciado);ValordoSeguro:R$831,27(15,50%dovalor
+totalfinanciado);ValordoIOF:R$151,15(2,82%dovalortotalfinanciado);CET:17,83%a.m.e636,12%a.a.;Taxaefetivadejuros:12,90%a.m.e337,63%a.a.;Valortotala
+pagar:R$15.750,48.
+
+PC - 00 01650 VK016 06/04/2023 VKRPOF11 G4190 0202865
