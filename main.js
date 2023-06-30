@@ -65,8 +65,8 @@ async function extractTextFromPDF() {
 
         // console.log('Texto extraído da página', pageNumber, ':', pageText);
 
-        fs.writeFile('./docs/sected.txt', pageText, (err) => { console.log(err) });
-        identify(pageText)
+        // fs.writeFile('./docs/sected.txt', pageText, (err) => { console.log(err) });
+        // identify(pageText)
         
     }
 }
